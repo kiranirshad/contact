@@ -1,0 +1,73 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    padding: 20px;
+}
+h3{
+    text-transform: uppercase;
+    text-align: left;
+    font-size: 25px;
+    border-bottom: 1px solid;
+    color: #626366 !important;
+    margin: 0px;
+    padding: 0px 3px 3px 4px ;
+    
+    
+}
+p{
+    text-align: left;
+    font-size: 14px;
+    color: #626366;
+    margin: 0;
+
+}
+
+.contact-info{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.phone, .mail, .address{
+    display: flex;
+}
+
+.email-img{
+    display: flex;
+    align-items: center;
+
+}
+.contact-info img{
+    height: 40px;
+}
+hr{
+    background: #626366;
+}
+.contact-form{
+    padding-top: 15px;
+}
+h2{
+    text-align: left;
+    font-size: 30px;
+    color: #626366;
+}
+.main-heading{
+    width: 45%;
+    padding-bottom: 20px;
+
+}
+.form-group{
+    font-size: 22px;
+   
+}
+.form-control{
+    padding: 25px;
+    border-color: black;
+    font-size: 20px;
+    border-radius: 0px !important;
+}
+.form-control:active{
+    border: 1px solid black !important;
+}
+form{
+    color: #626366;
+}
